@@ -1,0 +1,25 @@
+[{
+    "img":"img/1cde.jpg",
+    "name":"A米汉堡",
+    "pice":16,
+    "number":"月销2148份",
+    "count":0,
+    "starPice":10,
+    "time":45
+    },{
+        "img":"img/3a31d.jpg",
+        "name":"杨记小厨",
+        "pice":17.5,
+        "number":"月销2000份",
+        "count":0,
+        "starPice":20,
+        "time":40
+        },{
+            "img":"img/9ecd.jpg",
+            "name":"黄焖鸡米饭",
+            "pice":16.5,
+            "number":"月销2000份",
+            "count":0,
+            "starPice":30,
+            "time":25},{
+                "img":"img/d64c553.jpg","name":"烤肉拌饭","pice":16,"number":"月销1000份","count":0,"starPice":15,"time":35}]

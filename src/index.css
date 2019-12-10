@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+header {
+    width: 1200px;
+    height: 50px;
+    background: #FFD705;
+    margin: auto;
+}
+
+header img:nth-child(1) {
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+header img:nth-child(2) {
+    margin-left: 200px;
+    margin-bottom: 0px;
+}
+
+header input {
+    position: relative;
+    right: 376px;
+    bottom: 15px;
+    width: 200px;
+    height: 25px;
+    background-color: #FFD705;
+    border: 0;
+}
+
+header a {
+    color: #ffffff;
+    position: relative;
+    right: 278px;
+    bottom: 14px;
+}
+
+.content {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+    background-color: #F5F5F5;
+}
+
+.content p:nth-child(1) {
+    position: relative;
+    top: 20px;
+    color: blue;
+}
+
+.content #nav {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    background: #ffffff;
+}
+
+.content .food {
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.content .food li img {
+    width: 250px;
+    height: 150px;
+}
+
+.food li:nth-child(2) {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+ .pice{position: relative;left: 40px;
+}
+
+.food li:nth-child(3) {
+    font-size: 12px;
+    color: #FFB62F;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 8px;
+}
+
+.food li:nth-child(4) {
+    font-size: 12px;
+    color: #E1E1E1;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.food li:nth-child(5) {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.shop_cart {
+    width: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.shop_cart ul {
+    background: #ffffff;
+    width: 1000px;
+    margin: auto;
+}
+
+.shop_cart table {
+    width: 1000px;
+}
+
+#menu {
+    background: #B5E0FF
+}
+
+.shop_cart ul li:nth-child(2) {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.shop_cart ul li:nth-child(2) p {
+    margin-left: 818px;
+}
+
+.shop_cart ul li:nth-child(3) {
+    display: flex;
+    justify-content: flex-start;
+}
